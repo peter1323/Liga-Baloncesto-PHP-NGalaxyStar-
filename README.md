@@ -8,6 +8,6 @@ Dentro de la carpeta htdocs, pega los archivos que encontrarás en la carpeta Pr
 Abre el navegador y escribe esto: http://localhost/proyecto_Pedro_PHP/login.php y así podrás usar la aplicación.  
 En el login puedes registrarte o usar el usuario que he dejado en el txt: usuario y contraseña para prueba.txt en el repositorio de Git.  
 
-### Más información en el Proyectophp_PGV.docx
+### Más información en el Documento: Proyectophp_PGV.docx
 
 ![](https://github.com/peter1323/Liga-Baloncesto-PHP-NGalaxyStar-/blob/main/Proyecto_Pedro_PHP/portada.jpg)
